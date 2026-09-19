@@ -63,7 +63,7 @@ Pexelsの[ライセンス](https://www.pexels.com/license/)に基づくフリー
 
 ## 公開・検証
 
-- 公開予定URL：https://tetsu0619hira.github.io/pyuafurendo-matsumotokuukou-mise-xybuuu/
+- 公開URL：https://tetsu0619hira.github.io/pyuafurendo-matsumotokuukou-mise-xybuuu/
 - HTML内にCSS・JSを同梱。画像パスは相対。外部リンクは新規タブ＋noopener noreferrer。
 - noindex、非公式表記、制作クレジットを掲載。フォームやアクセス解析は設置しない。
 - 375px、320px、768px、1440pxの画面幅で横はみ出し、画像表示、内部リンク、メニュー開閉を確認。
